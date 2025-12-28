@@ -1,5 +1,5 @@
 # ESPHome ColorShadowRGB
-[ESPHome](https://esphome.io/) yaml config for RCTestFlight ColorShadow RGB Lamp to allow the device to be controlled by [Home Assistant](https://www.home-assistant.io/).
+[ESPHome](https://esphome.io/) yaml config for RCTestFlight Color Shadow LED Lamp to allow the device to be controlled by [Home Assistant](https://www.home-assistant.io/).
 
 Link to RCTestFlight product page: https://www.rctestflight.com/store/p/color-shadow-lamp
 
